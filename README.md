@@ -6,7 +6,7 @@ icon: hand-wave
 # Welcome!
 
 {% hint style="info" %}
-Terminaux 7.x is currently under active development.
+Terminaux 7.x is currently under maintenance, but [under another branch](https://gitlab.com/aptivi/main/Terminaux/-/tree/x/oob/7.0.x). This series is supported until August 5th, 2026.
 
 If you still use old versions of Terminaux in your projects, go to the below links:
 
